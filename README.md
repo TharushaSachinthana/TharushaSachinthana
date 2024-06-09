@@ -1,28 +1,15 @@
-# Hi there, I'm Tharusha Sachinthana! 👋
+<h1 align="center">Hi 👋, I'm M.K. Tharusha Sachinthana Thilakarathna</h1>
+<h3 align="center">A Computer Engineering Undergraduate at the University of Jaffna, Sri Lanka</h3>
 
-Welcome to my GitHub profile! I'm a passionate programmer and computer science student at the University of Jaffna, Sri Lanka. Here, you'll find a mix of personal projects, collaborations, and contributions to open-source projects.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tharushasachinthana&label=Profile%20views&color=0e75b6&style=flat" alt="tharushasachinthana" />
+</p>
 
 ## 🔥 GitHub Stats
 
-[![Tharusha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TharushaSachinthana&count_private=true&show_icons=true&theme=dark)](https://github.com/TharushaSachinthana)
-
-## 🚀 Top Projects
-
-Here are some of my top projects that I'm proud of:
-
-1. [Project 1](https://github.com/TharushaSachinthana/Project1) - A description of project 1.
-2. [Project 2](https://github.com/TharushaSachinthana/Project2) - A description of project 2.
-3. [Project 3](https://github.com/TharushaSachinthana/Project3) - A description of project 3.
-
-Feel free to explore these projects and provide feedback or even contribute if you find them interesting!
-
-## 🌟 Featured Repositories
-
-Here are some of my featured repositories:
-
-- [Featured Repo 1](https://github.com/TharushaSachinthana/FeaturedRepo1) - A short description of featured repo 1.
-- [Featured Repo 2](https://github.com/TharushaSachinthana/FeaturedRepo2) - A short description of featured repo 2.
-- [Featured Repo 3](https://github.com/TharushaSachinthana/FeaturedRepo3) - A short description of featured repo 3.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TharushaSachinthana&count_private=true&show_icons=true&theme=dark" alt="Tharusha's GitHub Stats" />
+</p>
 
 ## 🌐 Top Topics
 
@@ -48,12 +35,101 @@ I'm a firm believer in continuous learning. Here are some resources that I find 
 - 📖 [Books](https://www.goodreads.com/user/show/123215523-tharusha-sachinthana): I love reading technical books to deepen my knowledge.
 - 🧰 [Stack Overflow](https://stackoverflow.com/): A fantastic community for problem-solving and learning from others.
 
-## 🌍 Connect with Me
+## 🤝 Connect with me
 
-I'm always excited to connect with fellow developers, tech enthusiasts, and potential collaborators. You can find me on:
+<p align="left">
+  <a href="https://linkedin.com/in/tharusha-sachinthana" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharusha sachinthana" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/tharusha sachinthana" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tharusha sachinthana" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/tharusha sachinthana" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tharusha sachinthana" height="30" width="40" />
+  </a>
+</p>
 
-- [LinkedIn](https://www.linkedin.com/in/tharusha-sachinthana): Let's connect and network!
-- [Twitter](https://twitter.com/tharusha_s): Follow me for tech updates and interesting insights.
+## 🛠 Languages and Tools
 
-Thanks for visiting my GitHub profile! Feel free to explore my projects, star your favorites, and connect with me. Let's learn and build together! 🚀
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
+  </a>
+  <a href="https://hive.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  </a>
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  </a>
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
+</p>
 
+## 📈 GitHub Activity
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharushasachinthana&show_icons=true&locale=en&layout=compact" alt="tharushasachinthana" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tharushasachinthana&show_icons=true&locale=en" alt="tharushasachinthana" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharushasachinthana&" alt="tharushasachinthana" />
+</p>
