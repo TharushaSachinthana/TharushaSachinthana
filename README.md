@@ -35,19 +35,6 @@ I'm a firm believer in continuous learning. Here are some resources that I find 
 - 📖 [Books](https://www.goodreads.com/user/show/123215523-tharusha-sachinthana): I love reading technical books to deepen my knowledge.
 - 🧰 [Stack Overflow](https://stackoverflow.com/): A fantastic community for problem-solving and learning from others.
 
-## 🤝 Connect with me
-
-<p align="left">
-  <a href="https://linkedin.com/in/tharusha-sachinthana" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharusha sachinthana" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/tharusha sachinthana" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tharusha sachinthana" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/tharusha sachinthana" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tharusha sachinthana" height="30" width="40" />
-  </a>
-</p>
 
 ## 🛠 Languages and Tools
 
