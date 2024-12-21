@@ -27,15 +27,6 @@ I'm passionate about a variety of topics. Here are some of my top interests:
 - 🌟 [GitHub Star](https://github.com/stars/TharushaSachinthana) - If you find my projects interesting, consider giving them a star!
 - 👥 [Followers](https://github.com/TharushaSachinthana?tab=followers) - Join my growing community of followers to stay updated on my latest work.
 
-## 📖 Learning Resources
-
-I'm a firm believer in continuous learning. Here are some resources that I find valuable:
-
-- 📚 [Coursera](https://www.coursera.org/) and [edX](https://www.edx.org/): Great platforms for online courses on a wide range of topics.
-- 📖 [Books](https://www.goodreads.com/user/show/123215523-tharusha-sachinthana): I love reading technical books to deepen my knowledge.
-- 🧰 [Stack Overflow](https://stackoverflow.com/): A fantastic community for problem-solving and learning from others.
-
-
 ## 🛠 Languages and Tools
 
 <p align="left">
