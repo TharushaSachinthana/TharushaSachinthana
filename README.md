@@ -15,12 +15,12 @@
 
 I'm passionate about a variety of topics. Here are some of my top interests:
 
-- Java
-- C++
+- Python
+- Artificial Intelligence
 - Machine Learning
-- Database Systems
-- Data Structures
-- Networking
+- Big Data
+- Computer Vision
+- Embeded System
 
 ## 📚 GitHub Achievements
 
