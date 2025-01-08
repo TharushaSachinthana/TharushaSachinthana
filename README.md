@@ -15,18 +15,11 @@
 
 I'm passionate about a variety of topics. Here are some of my top interests:
 
-- Python
-- Artificial Intelligence
-- Machine Learning
-- Big Data
-- Computer Vision
-- Embeded System
-
-## 📚 GitHub Achievements
-
-- 🌟 [GitHub Star](https://github.com/stars/TharushaSachinthana) - If you find my projects interesting, consider giving them a star!
-- 👥 [Followers](https://github.com/TharushaSachinthana?tab=followers) - Join my growing community of followers to stay updated on my latest work.
-
+- **Programming Languages:** Python, Java  
+- **Software Engineering:** Blazor, REST APIs, SQL, HTML, CSS, JavaScript, Test Automation, CI/CD  ,Flask ,FastAPI
+- **Cloud & Data:** AWS, Azure Databricks,GCP , Apache Spark, Kafka, Hadoop, Hive ,Google cloud Engine ,ETL Pipelines
+- **Machine Learning & AI:** Neural Networks, YOLOv8, TensorFlow, Keras, SentenceTransformer, Hugging Face Transformers, FAISS, scikit-learn, LangChain  ,Agentic AI
+- **Tools & Frameworks:** Git, Docker, Selenium WebDriver, xUnit, NumPy, Pandas, OpenCV, PySpark  
 ## 🛠 Languages and Tools
 
 <p align="left">
