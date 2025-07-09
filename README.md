@@ -63,10 +63,10 @@
 ## 🌏 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tharusha-sachinthana/">
+  <a href="https://www.linkedin.com/in/tharusha-sachinthana-150773264">
     <img src="https://img.shields.io/badge/LinkedIn-29e7cd?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:tharushaschinthana@gmail.com">
+  <a href="mailto:thilakarathna.mkts@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://twitter.com/tharushasachi">
