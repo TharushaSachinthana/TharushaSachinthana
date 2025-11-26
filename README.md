@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Computer Engineering Undergraduate @ University of Jaffna
+  Computer Engineering Graduate @ University of Jaffna
   <br/>
   Ex-Software Engineering Intern @ <a href="https://www.zebra.com/">Zebra Technologies</a>
 </h3>
