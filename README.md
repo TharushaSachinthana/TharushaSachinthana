@@ -130,12 +130,12 @@ I am a **DevOps Engineer** passionate about building robust, cloud-native infras
 ## 📊 Professional Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TharushaSachinthana&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&include_all_commits=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharushaSachinthana&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tharushasachinthana&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&include_all_commits=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharushasachinthana&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TharushaSachinthana&theme=radical&hide_border=true&background=0D1117&ring=29e7cd&currStreakLabel=29e7cd" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com/?user=tharushasachinthana&theme=radical&hide_border=true&background=0D1117&ring=29e7cd&currStreakLabel=29e7cd" alt="streak graph" />
 </div>
 
 <div align="center">
