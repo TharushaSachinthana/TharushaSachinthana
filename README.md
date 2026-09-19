@@ -26,20 +26,20 @@
 
 I am a **DevOps Engineer** passionate about building robust, cloud-native infrastructure. With a background in **Computer Engineering**, I bridge the gap between complex development workflows and reliable operations.
 
-- 💼 **Experience:** Recently architected CI/CD pipelines and managed containerized deployments at **Zebra Technologies** (Internship).
-- ☁️ **Cloud Focus:** Specialized in **AWS & GCP**, utilizing **Terraform** and **Ansible** for Infrastructure as Code.
-- 🔬 **Research:** Developed a scalable Cloud Analytics Platform for Healthcare IoT using **Google Cloud Dataproc** & **PySpark**.
+* 💼 **Experience:** Recently architected CI/CD pipelines and managed containerized deployments at **Zebra Technologies** (Internship).
+* ☁️ **Cloud Focus:** Specialized in **AWS & GCP**, utilizing **Terraform** and **Ansible** for Infrastructure as Code.
+* 🔬 **Research:** Developed a scalable Cloud Analytics Platform for Healthcare IoT using **Google Cloud Dataproc** & **PySpark**.
 
 ---
 
 ## 🏆 Honors & Awards
 
-| Rank | Competition | Achievement |
-| :--- | :--- | :--- |
-| 🌍 **109th** | **IEEE Xtreme 18.0** | **Global Rank** (6th in Sri Lanka, 1st in University) |
-| 🥇 **1st** | **Agni Xtreme V 1.0** | **Champion** |
-| 🥇 **1st** | **ACES Coders V11.0** | University Rank (10th All Island) |
-| 🏅 **10th** | **Huawei ICT Competition** | National Rank (Network Category) |
+| Rank         | Competition                | Achievement                                           |
+| :----------- | :------------------------- | :---------------------------------------------------- |
+| 🌍 **109th** | **IEEE Xtreme 18.0**       | **Global Rank** (6th in Sri Lanka, 1st in University) |
+| 🥇 **1st**   | **Agni Xtreme V 1.0**      | **Champion**                                          |
+| 🥇 **1st**   | **ACES Coders V11.0**      | University Rank (10th All Island)                     |
+| 🏅 **10th**  | **Huawei ICT Competition** | National Rank (Network Category)                      |
 
 ---
 
@@ -54,76 +54,109 @@ I am a **DevOps Engineer** passionate about building robust, cloud-native infras
       </td>
       <td align="center" width="130">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="50" height="50" alt="GCP" />
-        <br />GCP
+        <br />Google Cloud
+      </td>
+      <td align="center" width="130">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftazure/microsoftazure-original.svg" width="50" height="50" alt="Azure" />
+        <br />Azure
       </td>
       <td align="center" width="130">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" />
         <br />Docker
       </td>
       <td align="center" width="130">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" alt="K8s" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" alt="Kubernetes" />
         <br />Kubernetes
       </td>
-      <td align="center" width="130">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="50" height="50" alt="Terraform" />
-        <br />Terraform
-      </td>
     </tr>
-    <tr>
-      <td align="center" width="130">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="50" height="50" alt="Jenkins" />
-        <br />Jenkins
-      </td>
-      <td align="center" width="130">
-        <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="50" height="50" alt="Actions" />
-        <br />Actions
-      </td>
-      <td align="center" width="130">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="50" height="50" alt="Ansible" />
-        <br />Ansible
-      </td>
-      <td align="center" width="130">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-        <br />Python
-      </td>
-      <td align="center" width="130">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="50" height="50" alt="Bash" />
-        <br />Bash Scripting
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="130">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="50" height="50" alt="Prometheus" />
-        <br />Prometheus
-      </td>
-      <td align="center" width="130">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datadog/datadog-original.svg" width="50" height="50" alt="Datadog" />
-        <br />Datadog
-      </td>
-      <td align="center" width="130">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="50" height="50" alt="Spark" />
-        <br />Spark
-      </td>
-      <td align="center" width="130">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" />
-        <br />PostgreSQL
-      </td>
-      <td align="center" width="130">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java" />
-        <br />Java
-      </td>
-    </tr>
+
+```
+<tr>
+  <td align="center" width="130">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="50" height="50" alt="Terraform" />
+    <br />Terraform
+  </td>
+  <td align="center" width="130">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="50" height="50" alt="Ansible" />
+    <br />Ansible
+  </td>
+  <td align="center" width="130">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="50" height="50" alt="Jenkins" />
+    <br />Jenkins
+  </td>
+  <td align="center" width="130">
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="50" height="50" alt="GitHub Actions" />
+    <br />GitHub Actions
+  </td>
+  <td align="center" width="130">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git" />
+    <br />Git
+  </td>
+</tr>
+
+<tr>
+  <td align="center" width="130">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="50" height="50" alt="Prometheus" />
+    <br />Prometheus
+  </td>
+  <td align="center" width="130">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="50" height="50" alt="Grafana" />
+    <br />Grafana
+  </td>
+  <td align="center" width="130">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" />
+    <br />Linux
+  </td>
+  <td align="center" width="130">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="50" height="50" alt="Bash" />
+    <br />Bash
+  </td>
+  <td align="center" width="130">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" />
+    <br />Python
+  </td>
+</tr>
+
+<tr>
+  <td align="center" width="130">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" width="50" height="50" alt="Azure DevOps" />
+    <br />Azure DevOps
+  </td>
+  <td align="center" width="130">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="50" height="50" alt="Nginx" />
+    <br />Nginx
+  </td>
+  <td align="center" width="130">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="50" height="50" alt="Apache" />
+    <br />Apache
+  </td>
+  <td align="center" width="130">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="50" height="50" alt="Redis" />
+    <br />Redis
+  </td>
+  <td align="center" width="130">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" width="50" height="50" alt="Helm" />
+    <br />Helm
+  </td>
+</tr>
+```
+
   </table>
 </div>
 
 <br/>
 
 ## 📜 Certifications
-- **DevOps Professional** - PagerDuty
-- **Infrastructure as Code**
-- **Docker Foundations** - Docker
-- **Kubernetes: Microservices**
-- **GitHub Foundations & GitHub Actions**
+
+* **GitHub Foundations**
+* **GitHub Actions**
+* **AWS Certified AI Practitioner**
+* **AWS Certified Cloud Practitioner**
+* **Redis Certified Cloud Operator** — Pending
+* **DevOps Professional** — PagerDuty
+* **Infrastructure as Code**
+* **Docker Foundations** — Docker
+* **Kubernetes: Microservices**
 
 <br/>
 
