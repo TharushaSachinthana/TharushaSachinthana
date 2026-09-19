@@ -70,7 +70,7 @@ I am a **DevOps Engineer** passionate about building robust, cloud-native infras
       </td>
     </tr>
 
-```
+
 <tr>
   <td align="center" width="130">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="50" height="50" alt="Terraform" />
@@ -139,7 +139,7 @@ I am a **DevOps Engineer** passionate about building robust, cloud-native infras
     <br />Helm
   </td>
 </tr>
-```
+
 
   </table>
 </div>
