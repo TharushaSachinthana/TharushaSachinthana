@@ -178,17 +178,17 @@ I am a **DevOps Engineer** passionate about building robust, cloud-native infras
 <!-- PROJECTS:START -->
 <div align="center">
 
+  <a href="https://github.com/TharushaSachinthana/my-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TharushaSachinthana&repo=my-portfolio&theme=radical&hide_border=true&bg_color=0d1117&title_color=29e7cd&icon_color=29e7cd" alt="my-portfolio" /></a>
   <a href="https://github.com/TharushaSachinthana/Intune-Expiry-Monitoring-Platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TharushaSachinthana&repo=Intune-Expiry-Monitoring-Platform&theme=radical&hide_border=true&bg_color=0d1117&title_color=29e7cd&icon_color=29e7cd" alt="Intune-Expiry-Monitoring-Platform" /></a>
+
+  <a href="https://github.com/TharushaSachinthana/Automate-CICD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TharushaSachinthana&repo=Automate-CICD&theme=radical&hide_border=true&bg_color=0d1117&title_color=29e7cd&icon_color=29e7cd" alt="Automate-CICD" /></a>
   <a href="https://github.com/TharushaSachinthana/github-contributions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TharushaSachinthana&repo=github-contributions&theme=radical&hide_border=true&bg_color=0d1117&title_color=29e7cd&icon_color=29e7cd" alt="github-contributions" /></a>
 
   <a href="https://github.com/TharushaSachinthana/carprice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TharushaSachinthana&repo=carprice&theme=radical&hide_border=true&bg_color=0d1117&title_color=29e7cd&icon_color=29e7cd" alt="carprice" /></a>
   <a href="https://github.com/TharushaSachinthana/Vesakdansal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TharushaSachinthana&repo=Vesakdansal&theme=radical&hide_border=true&bg_color=0d1117&title_color=29e7cd&icon_color=29e7cd" alt="Vesakdansal" /></a>
 
   <a href="https://github.com/TharushaSachinthana/project-history"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TharushaSachinthana&repo=project-history&theme=radical&hide_border=true&bg_color=0d1117&title_color=29e7cd&icon_color=29e7cd" alt="project-history" /></a>
-  <a href="https://github.com/TharushaSachinthana/my-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TharushaSachinthana&repo=my-portfolio&theme=radical&hide_border=true&bg_color=0d1117&title_color=29e7cd&icon_color=29e7cd" alt="my-portfolio" /></a>
-
   <a href="https://github.com/TharushaSachinthana/camora"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TharushaSachinthana&repo=camora&theme=radical&hide_border=true&bg_color=0d1117&title_color=29e7cd&icon_color=29e7cd" alt="camora" /></a>
-  <a href="https://github.com/TharushaSachinthana/Automate-CICD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TharushaSachinthana&repo=Automate-CICD&theme=radical&hide_border=true&bg_color=0d1117&title_color=29e7cd&icon_color=29e7cd" alt="Automate-CICD" /></a>
 
   <a href="https://github.com/TharushaSachinthana/karoke-Master"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TharushaSachinthana&repo=karoke-Master&theme=radical&hide_border=true&bg_color=0d1117&title_color=29e7cd&icon_color=29e7cd" alt="karoke-Master" /></a>
   <a href="https://github.com/TharushaSachinthana/Automatic-accelarator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TharushaSachinthana&repo=Automatic-accelarator&theme=radical&hide_border=true&bg_color=0d1117&title_color=29e7cd&icon_color=29e7cd" alt="Automatic-accelarator" /></a>
