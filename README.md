@@ -177,7 +177,39 @@ I am a **DevOps Engineer** passionate about building robust, cloud-native infras
 
 <!-- PROJECTS:START -->
 <div align="center">
-  <i>🔄 Project cards will appear here automatically once the GitHub Actions workflow runs for the first time.</i>
+
+  <a href="https://github.com/TharushaSachinthana/Intune-Expiry-Monitoring-Platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TharushaSachinthana&repo=Intune-Expiry-Monitoring-Platform&theme=radical&hide_border=true&bg_color=0d1117&title_color=29e7cd&icon_color=29e7cd" alt="Intune-Expiry-Monitoring-Platform" /></a>
+  <a href="https://github.com/TharushaSachinthana/github-contributions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TharushaSachinthana&repo=github-contributions&theme=radical&hide_border=true&bg_color=0d1117&title_color=29e7cd&icon_color=29e7cd" alt="github-contributions" /></a>
+
+  <a href="https://github.com/TharushaSachinthana/carprice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TharushaSachinthana&repo=carprice&theme=radical&hide_border=true&bg_color=0d1117&title_color=29e7cd&icon_color=29e7cd" alt="carprice" /></a>
+  <a href="https://github.com/TharushaSachinthana/Vesakdansal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TharushaSachinthana&repo=Vesakdansal&theme=radical&hide_border=true&bg_color=0d1117&title_color=29e7cd&icon_color=29e7cd" alt="Vesakdansal" /></a>
+
+  <a href="https://github.com/TharushaSachinthana/project-history"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TharushaSachinthana&repo=project-history&theme=radical&hide_border=true&bg_color=0d1117&title_color=29e7cd&icon_color=29e7cd" alt="project-history" /></a>
+  <a href="https://github.com/TharushaSachinthana/my-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TharushaSachinthana&repo=my-portfolio&theme=radical&hide_border=true&bg_color=0d1117&title_color=29e7cd&icon_color=29e7cd" alt="my-portfolio" /></a>
+
+  <a href="https://github.com/TharushaSachinthana/camora"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TharushaSachinthana&repo=camora&theme=radical&hide_border=true&bg_color=0d1117&title_color=29e7cd&icon_color=29e7cd" alt="camora" /></a>
+  <a href="https://github.com/TharushaSachinthana/Automate-CICD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TharushaSachinthana&repo=Automate-CICD&theme=radical&hide_border=true&bg_color=0d1117&title_color=29e7cd&icon_color=29e7cd" alt="Automate-CICD" /></a>
+
+  <a href="https://github.com/TharushaSachinthana/karoke-Master"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TharushaSachinthana&repo=karoke-Master&theme=radical&hide_border=true&bg_color=0d1117&title_color=29e7cd&icon_color=29e7cd" alt="karoke-Master" /></a>
+  <a href="https://github.com/TharushaSachinthana/Automatic-accelarator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TharushaSachinthana&repo=Automatic-accelarator&theme=radical&hide_border=true&bg_color=0d1117&title_color=29e7cd&icon_color=29e7cd" alt="Automatic-accelarator" /></a>
+
+  <a href="https://github.com/TharushaSachinthana/finance-mate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TharushaSachinthana&repo=finance-mate&theme=radical&hide_border=true&bg_color=0d1117&title_color=29e7cd&icon_color=29e7cd" alt="finance-mate" /></a>
+  <a href="https://github.com/TharushaSachinthana/wealth-buddy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TharushaSachinthana&repo=wealth-buddy&theme=radical&hide_border=true&bg_color=0d1117&title_color=29e7cd&icon_color=29e7cd" alt="wealth-buddy" /></a>
+
+  <a href="https://github.com/TharushaSachinthana/Meeting-minder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TharushaSachinthana&repo=Meeting-minder&theme=radical&hide_border=true&bg_color=0d1117&title_color=29e7cd&icon_color=29e7cd" alt="Meeting-minder" /></a>
+  <a href="https://github.com/TharushaSachinthana/ai-data-analysis-agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TharushaSachinthana&repo=ai-data-analysis-agent&theme=radical&hide_border=true&bg_color=0d1117&title_color=29e7cd&icon_color=29e7cd" alt="ai-data-analysis-agent" /></a>
+
+  <a href="https://github.com/TharushaSachinthana/RealStream"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TharushaSachinthana&repo=RealStream&theme=radical&hide_border=true&bg_color=0d1117&title_color=29e7cd&icon_color=29e7cd" alt="RealStream" /></a>
+  <a href="https://github.com/TharushaSachinthana/OmniFace"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TharushaSachinthana&repo=OmniFace&theme=radical&hide_border=true&bg_color=0d1117&title_color=29e7cd&icon_color=29e7cd" alt="OmniFace" /></a>
+
+  <a href="https://github.com/TharushaSachinthana/SpamShield"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TharushaSachinthana&repo=SpamShield&theme=radical&hide_border=true&bg_color=0d1117&title_color=29e7cd&icon_color=29e7cd" alt="SpamShield" /></a>
+  <a href="https://github.com/TharushaSachinthana/Bankruptcy-Prediction-ML"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TharushaSachinthana&repo=Bankruptcy-Prediction-ML&theme=radical&hide_border=true&bg_color=0d1117&title_color=29e7cd&icon_color=29e7cd" alt="Bankruptcy-Prediction-ML" /></a>
+
+  <a href="https://github.com/TharushaSachinthana/SpellingGrammarCorrectorSinhala"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TharushaSachinthana&repo=SpellingGrammarCorrectorSinhala&theme=radical&hide_border=true&bg_color=0d1117&title_color=29e7cd&icon_color=29e7cd" alt="SpellingGrammarCorrectorSinhala" /></a>
+  <a href="https://github.com/TharushaSachinthana/Landing-page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TharushaSachinthana&repo=Landing-page&theme=radical&hide_border=true&bg_color=0d1117&title_color=29e7cd&icon_color=29e7cd" alt="Landing-page" /></a>
+
+  <a href="https://github.com/TharushaSachinthana/Flower-bloom_test-repo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TharushaSachinthana&repo=Flower-bloom_test-repo&theme=radical&hide_border=true&bg_color=0d1117&title_color=29e7cd&icon_color=29e7cd" alt="Flower-bloom_test-repo" /></a>
+
 </div>
 <!-- PROJECTS:END -->
 
