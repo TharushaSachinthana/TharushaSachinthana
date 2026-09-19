@@ -1,0 +1,43 @@
+name: 🗂️ Update Project Showcase
+
+on:
+  # Runs every 6 hours
+  schedule:
+    - cron: "0 */6 * * *"
+  # Allow manual trigger from the Actions tab
+  workflow_dispatch:
+  # Also run when the README itself is pushed (to re-sync after manual edits)
+  push:
+    branches: [main]
+    paths:
+      - "scripts/update_readme.py"
+
+permissions:
+  contents: write
+
+jobs:
+  update-projects:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 🔄 Run project showcase updater
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
+        run: python scripts/update_readme.py
+
+      - name: 📝 Commit & push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet --staged && echo "No changes to commit." && exit 0
+          git commit -m "🤖 Auto-update project showcase [skip ci]"
+          git push

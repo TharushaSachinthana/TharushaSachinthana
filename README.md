@@ -171,7 +171,20 @@ I am a **DevOps Engineer** passionate about building robust, cloud-native infras
   <img src="https://streak-stats.demolab.com/?user=tharushasachinthana&theme=radical&hide_border=true&background=0D1117&ring=29e7cd&currStreakLabel=29e7cd&v=2" alt="streak graph" />
 </div>
 
+---
+
+## 🗂️ Featured Projects
+
+<!-- PROJECTS:START -->
+<div align="center">
+  <i>🔄 Project cards will appear here automatically once the GitHub Actions workflow runs for the first time.</i>
+</div>
+<!-- PROJECTS:END -->
+
+---
+
 <div align="center">
   <br/>
   <img src="https://komarev.com/ghpvc/?username=tharushasachinthana&label=Profile%20Views&color=29e7cd&style=for-the-badge" alt="Profile Views" />
 </div>
+
